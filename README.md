@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I study bioengineering and software engineering
+- :desktop_computer: I have a strong interest in bioinformatics
+- :tea: I love coding in Java (but to drink I prefer tea)
+
 <!--
 **jeanine56/jeanine56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
