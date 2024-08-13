@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I study bioengineering and software engineering
+- 🌱 I study biomedical engineering
 - :desktop_computer: I have a strong interest in bioinformatics
 - :tea: I love coding in Java (but to drink I prefer tea)
 
